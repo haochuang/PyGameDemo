@@ -493,7 +493,7 @@ ADDCLOUD = pygame.USEREVENT + 2
 pygame.time.set_timer(ADDCLOUD, 1000)
 ```
 
-现在新建一个云精灵群：
+现在新建一个云精灵组：
 
 
 ```
