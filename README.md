@@ -1,7 +1,13 @@
 # PyGameDemo
 a demo test for python game
+source code参见：
 
-PyGame – A Primer：https://realpython.com/pygame-a-primer/#.Vo0sHqOmRRI.reddit
+https://github.com/haochuang/pygame-primer
+
+原英文博客：PyGame – A Primer：
+
+https://realpython.com/pygame-a-primer/#.Vo0sHqOmRRI.reddit
+
 
 PyGame是一个用Python写的SDL库。SDL是一个能访问计算机多媒体硬件组件(包括声卡，视频卡，输入组件等)的跨平台库。SDL是一个非常强大的工具，擅长创建基于多媒体硬件的程序，但它是用C语言写的，可C语言很难，所以我们选择PyGame。
 
